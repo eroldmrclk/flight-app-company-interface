@@ -1,0 +1,34 @@
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\AirplaneCompanyApplication.exe.config
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\AirplaneCompanyApplication.exe
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\AirplaneCompanyApplication.pdb
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csprojAssemblyReference.cache
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Properties.Resources.resources
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csproj.GenerateResource.cache
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csproj.CoreCompileInputs.cache
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.exe
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.pdb
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Form1.resources
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Form2.resources
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.dll
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.xml
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csproj.CopyComplete
+C:\Users\EROL DEMİRÇELİK\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Migrations.Create.resources
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\AirplaneCompanyApplication.exe.config
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\AirplaneCompanyApplication.exe
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\AirplaneCompanyApplication.pdb
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.dll
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.xml
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csprojAssemblyReference.cache
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Form1.resources
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Form2.resources
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Migrations.Create.resources
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.Properties.Resources.resources
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csproj.GenerateResource.cache
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csproj.CoreCompileInputs.cache
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.csproj.CopyComplete
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.exe
+C:\Users\erol\Source\Repos\AirplaneCompanyApplication\AirplaneCompanyApplication\obj\Debug\AirplaneCompanyApplication.pdb

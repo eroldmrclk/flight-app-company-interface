@@ -11,5 +11,5 @@
 ![database-diagram](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/database-diagram.png)
 
 ## Other Interfaces of the Flight App
-[Click](https://github.com/eroldmrclk/flight-app-sale-ticket) view to **flight-app-sale-ticket** interface. <br>
-[Click](https://github.com/eroldmrclk/flight-app-check-in) view to **flight-app-check-in** interface.
+[Click](https://github.com/eroldmrclk/flight-app-sale-ticket) view to **flight-app-sale-ticket**. <br>
+[Click](https://github.com/eroldmrclk/flight-app-check-in) view to **flight-app-check-in**.

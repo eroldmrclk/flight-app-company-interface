@@ -4,8 +4,11 @@
 ## Purpose of Application
 *Thanks to this desktop application, employees in the company will be able to easily open a new flight, add new aircraft added to the fleet, and access passenger details by entering the id numbers of the flights.*
 
-##### Sample Screenshot
+##### Company Interface
 ![company-interface](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/company-interface.png)
+
+##### Database Diagram
+![database-diagram](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/database-diagram.png)
 
 ## Other Interfaces of the Flight App
 [Click](https://github.com/eroldmrclk/flight-app-sale-ticket) view to **flight-app-sale-ticket** interface. <br>

@@ -5,7 +5,7 @@
 *Thanks to this desktop application, employees in the company will be able to easily open a new flight, add new aircraft added to the fleet, and access passenger details by entering the id numbers of the flights.*
 
 ## Company Interface
-![company-interface](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/company-interface.png)
+![company-interface](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/comp-interface.png)
 
 ## Database Diagram
 ![database-diagram](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/database-diagram.png)

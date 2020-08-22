@@ -8,7 +8,7 @@
 ![company-interface](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/comp-interface.png)
 
 ## Database Diagram
-![database-diagram](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/database-diagram.png)
+![database-diagram](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/db-diagram.png)
 
 ## Other Interfaces of the Flight App
 [Click](https://github.com/eroldmrclk/flight-app-sale-ticket) view to **flight-app-sale-ticket**. <br>
